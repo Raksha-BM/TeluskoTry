@@ -1,0 +1,2 @@
+# TeluskoTry
+Git Beginners stuff
